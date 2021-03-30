@@ -1,0 +1,13 @@
+ ,shape,crust-size,crust-shade,fill-size,fill-shade,Liking
+1,square,thick,grey,thin,white,like
+2,triang,medi,green,medi,red,dislike
+3,square,thin,red,thick,white,like
+4,rect,thick,grey,medi,red,dislike
+5,triang,thin,grey,thin,red,like
+6,square,thin,grey,thin,dark,dislike
+7,triang,medi,green,medi,white,like
+8,square,thin,grey,thick,red,like
+9,round,thick,grey,medi,dark,like
+10,round,thick,red,thin,blue,like
+11,triang,thick,yellow,thin,white,like
+12,round,thin,blue,medi,dark,dislike
